@@ -50,6 +50,7 @@ public class JobController {
       public String fetchjobInfo(){
       
        return null;
+      }
            public String updatejobInfo(){
       
        return null;
